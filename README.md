@@ -13,16 +13,7 @@ this is where I put every ideas in unsorted manner
     - [ ]  Trivia Quiz (With Randomizer, DB, )
     - [ ]  Recreate Excel Functions via Java
     - [ ]  To Do Lists
-    - [ ]  School Org Sys Web (w/API application)
-
-  - [ ]  small learning projects
-    - [ ]  Calculator in Java
-    - [ ]  Trivia Quiz (With Randomizer, DB, )
-    - [ ]  Recreate Excel Functions via Java
-    - [ ]  To Do Lists
-    - [ ]  School Org Sys Web (w/API application)
-    
-   
+    - [ ]  School Org Sys Web (w/API application)   
   ### Resources
    - [ ]  Book (pictures) -> exercises and standard processes
    - [ ]  Encode (from phone)
